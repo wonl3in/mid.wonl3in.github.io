@@ -1,0 +1,237 @@
+/* *{border: solid 0.5px red;} */
+
+/*-------------------- page_3 --------------------*/
+.page_3{
+    position: relative;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.page_3 > .backwhite > img{
+    width: 100%;
+    opacity: 0.4;
+}
+/* .widthbox{
+    position: absolute;
+    width: 1100px;
+    height: 100%;
+    left: 50%;
+    margin-left: -550px;
+    border: 2px solid red; 
+}*/
+.sidebar{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    top: 0%;
+    background-color: #365C7B 
+}                  
+
+.phonemockup{             /*  휴대폰 목업   */
+    position: absolute;
+    width: 65%;
+    left: 0%;
+    top: 12%;
+    z-index: 1;
+}
+.phonemockup>img{          /*  휴대폰 목업_1   */
+    width: 100%;
+}
+.shadow{                /*  휴대폰 그림자   */
+    position: absolute;
+    width: 40%;
+    left: 12%;
+    top: 93%;
+    opacity: 0.8;
+}
+.shadow>img{            /*  휴대폰 그림자_1   */
+    width: 100%;
+}
+
+.appredesign{              /*  앱 리디자인   */
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    color: #23425b;
+    position: absolute;
+    top: 12%;
+    left: 56.5%;
+    font-size: 60px;
+}
+.busredesign{            /*  시외버스 앱 리디자인   */
+    font-family: 'Noto Sans KR', sans-serif;
+    position: absolute;
+    font-weight: bold;
+    top: 22%;
+    left: 71%;
+    font-size: 20px;
+}
+
+.length{                  /*  제작기간 제목   */
+    position: absolute;
+    font-weight: bold;
+    top: 37%;
+    left: 57%;
+    font-size: 20px;
+}
+.length_1{                /*  제작기간 내용  */
+    position: absolute;
+    top: 42%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+.euido{                        /*  기획의도 제목   */
+    position: absolute;
+    font-weight: bold;
+    top: 53%;
+    left: 57%;
+    font-size: 20px;
+}
+.euido_1{                  /*  기획의도 내용   */
+    position: absolute;
+    top: 58%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+.keyword{                  /*  키워드 제목   */ 
+    position: absolute;
+    font-weight: bold;
+    top: 72%;
+    left: 57%;
+    font-size: 20px;
+}
+.keyword_1{               /*  키워드 내용   */ 
+    position: absolute;
+    top: 79%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+/*-------------------- page_4 --------------------*/
+.page_4{
+    position: relative;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.page_4 > .backwhite > img{
+    width: 100%;
+    opacity: 0.4;
+}
+
+.page_4>.sidebar{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    top: 0%;
+    background-color: #323232 
+}
+.macmockup{
+    position: absolute;
+    width: 48%;
+    left: 6%;
+    top: 14%;
+}
+.macmockup>img{
+    width: 100%;
+}
+.padmockup{
+    position: absolute;
+    width: 48%;
+    left: 20%;
+    top: 31%;
+    z-index: 1;
+}
+.padmockup>img{
+    width: 100%;
+}
+.pagedesign{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    color: #323232;
+    position: absolute;
+    top: 12%;
+    left: 54.7%;
+    font-size: 60px;
+}
+.movieredesign{
+    font-family: 'Noto Sans KR', sans-serif;
+    position: absolute;
+    font-weight: bold;
+    top: 22%;
+    left: 71%;
+    font-size: 20px;
+}
+.length4{                  /*  제작기간 제목   */
+    position: absolute;
+    font-weight: bold;
+    top: 37%;
+    left: 57%;
+    font-size: 20px;
+}
+.length4_1{                /*  제작기간 내용  */
+    position: absolute;
+    top: 42%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+.euido4{                        /*  기획의도 제목   */
+    position: absolute;
+    font-weight: bold;
+    top: 53%;
+    left: 57%;
+    font-size: 20px;
+}
+.euido4_1{                  /*  기획의도 내용   */
+    position: absolute;
+    top: 58%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+.keyword4{                  /*  키워드 제목   */ 
+    position: absolute;
+    font-weight: bold;
+    top: 72%;
+    left: 57%;
+    font-size: 20px;
+}
+.keyword4_1{               /*  키워드 내용   */ 
+    position: absolute;
+    top: 79%;
+    left: 57%;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+/*-------------------- page_5 --------------------*/
+.page_5{
+    position: relative;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.page_5 > .backwhite > img{
+    width: 100%;
+    opacity: 0.4;
+}
+.sidebar5 {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    top: 0%;
+    background-color: rgb(0, 0, 0);
+    
+}
